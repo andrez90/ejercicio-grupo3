@@ -1,0 +1,4 @@
+Nombre: Catherine Urbina
+Estudiante: Desarrollo de softaware
+Grupo:3
+Reposirorio:https://github.com/andrez90/ejercicio-grupo3
