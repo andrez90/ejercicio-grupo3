@@ -1,5 +1,6 @@
 
-# 🚀  Taller de Práctica con Git y GitHub
+# 🚀  Taller de Práctica con Git y GitHub## ⚽ Página de Fútbol
+Este repositorio también incluye una página web sencilla dedicada al fútbol, creada con HTML y CSS. La página muestra información básica sobre este deporte.
 
 Repositorio Creado desde cero para empezar a dominar el flujo de trabajo con sistemas de control de versiones.
 
